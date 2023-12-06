@@ -1,5 +1,5 @@
 # fastqc-trimmomatic
-<h1 align="center"> Java </h1>
+<h1 align="center"> FastQC & Trimmomatic for data analises </h1>
 
 # Content
 
